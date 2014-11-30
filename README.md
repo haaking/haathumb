@@ -26,4 +26,4 @@ http://domain.com/gorsel/285x190/high/grayscale/sharpen/src/image.jpg
 And there is a lot of parameter in the file. 
 
 Note.
-Images are progressive as default. You can change with conservative parametres.
+Images are progressive as default. You can change with /conservative/ url parametres.
