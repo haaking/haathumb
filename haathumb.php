@@ -96,7 +96,7 @@ $filter= trim($filter,'|');
 if ($filter=='&f=') $filter='';
 $source = explode('/src/',$_GET['query']);
 $source = $source[1];
-$timthumb_string.='&q='.$quality.'&zc='.$zc.'&a='.$a.$filter.'&progressive='.$progressive.'&src='$startDir.$source;
+$timthumb_string.='&q='.$quality.'&zc='.$zc.'&a='.$a.$filter.'&progressive='.$progressive.'&src='.$startDir.$source;
 $timthumb_string= trim($timthumb_string,'&');
 $array = array();
 parse_str($timthumb_string, $array);
