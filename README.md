@@ -1,15 +1,6 @@
-You need clear url for seo, you can use timthumb with clear url.
+# haaThumb
 
-Example:
-
-Orginally url.
-http://domain.com/timthumb.php?src=images/image.jpg&amp;w=300&amp;h=250
-
-With haathumb.
-http://domain.com/gorsel/285x190/center/moved/src/image.jpg
-
-<h1>Haathumb</h1>
-Seo friendly timthumb caller script
+haaThumb is a wrapper for timthumb allowing for prettier, SEO friendly URLs.
 
 you can use graysceale
 http://domain.com/gorsel/285x190/grayscale/src/image.jpg
