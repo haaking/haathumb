@@ -1,2 +1,4 @@
-RewriteEngine On
-RewriteRule ^image/(.*) haathumb.php?query=$1 []
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteRule ^thumb/(.*) haathumb.php?var=$1 [L,QSA]
+</IfModule>
