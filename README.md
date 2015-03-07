@@ -32,7 +32,7 @@ Without htaccess rewrite:
     <tr>
         <td>size</td>
         <td>100 | 320x240 | 320x | x240</td>
-        <td>Same as timthumb</td>
+        <td>100x100</td>
         <td>Width and/or height must be between 1 and 1500</td>
     </tr>
     <tr>
@@ -166,5 +166,6 @@ Without htaccess rewrite:
 ### Version
 1.0
 
-### Installation
-Put haaThumb and timthumb in the same folder.
+### License
+GNU General Public License, version 2
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
