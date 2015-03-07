@@ -157,7 +157,7 @@ Without htaccess rewrite:
     </tr>
     <tr>
         <td>canvas transparent</td>
-        <td>/canvas-transparent/</td>
+        <td>/canvas-trans/</td>
         <td></td>
         <td>Use transparency and ignore background colour</td>
     </tr>
