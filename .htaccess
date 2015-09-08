@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^image/(.*) haathumb.php?query=$1 []
+RewriteRule ^image/(.*) haathumb.php?var=$1 []
