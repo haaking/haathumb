@@ -1,6 +1,6 @@
 # haaThumb
 
-haaThumb is a wrapper for timthumb allowing for prettier, SEO friendly URLs.
+haaThumb is a wrapper for timthumb(lite) allowing for prettier, SEO friendly URLs.
 
 ## Example Usage
 
@@ -171,7 +171,7 @@ Without htaccess rewrite:
 </table>
 
 ### Version
-1.0
+2.0
 
 ### License
 GNU General Public License, version 2
